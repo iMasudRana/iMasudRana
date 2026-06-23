@@ -5,7 +5,7 @@ Full Stack Engineer | Scalable Web Apps, REST APIs, SaaS & Automation Solutions
 </h3>
 
 <p align="center">
-I help startups, businesses, and entrepreneurs build scalable web applications, REST APIs, SaaS platforms, and automation solutions. My expertise includes authentication systems, payment gateway integration, real-time applications, database design, and backend optimization. I focus on clean code, performance, security, and delivering reliable solutions that create real business value. I deliver scalable, production-grade software engineered for speed, bulletproof security, and seamless user experiences.</p>
+I help startups, businesses, and entrepreneurs build scalable web applications, REST APIs, SaaS platforms, and automation solutions. My expertise includes authentication systems, payment gateway integration, real-time applications, database design, and backend optimization. I focus on clean code, performance, security, and delivering reliable solutions that create real business value.</p>
 
 ---
 

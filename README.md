@@ -3,11 +3,11 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=900&color=00F5D4&center=true&vCenter=true&width=900&lines=Senior+Full+Stack+Engineer;Scalable+Systems+%7C+SaaS+Architect;Backend+%7C+APIs+%7C+System+Design;Production-Grade+Software+Engineer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=900&color=00F5D4&center=true&vCenter=true&width=900&lines=Full+Stack+Engineer;Scalable+Systems+%7C+SaaS+Architect;Backend+%7C+APIs+%7C+System+Design;Production-Grade+Software+Engineer" />
 </p>
 
 <h3 align="center">
-Senior Full Stack Engineer | Scalable Systems • SaaS • APIs • Automation
+Full Stack Engineer | Scalable Systems • SaaS • APIs • Automation
 </h3>
 
 <p align="center">

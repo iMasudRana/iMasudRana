@@ -1,7 +1,9 @@
-<h1 align="center">Hi 👋, I'm Masud Rana</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=220&section=header&text=Masud%20Rana&fontSize=42&fontColor=ffffff&animation=fadeIn" />
+</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=800&lines=Senior+Full+Stack+Engineer;Scalable+Web+Apps+%7C+SaaS+%7C+REST+APIs;System+Design+%7C+Backend+Architecture+%7C+Automation;Building+Production-Grade+Software+for+Startups" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=900&color=00F5D4&center=true&vCenter=true&width=900&lines=Senior+Full+Stack+Engineer;Scalable+Systems+%7C+SaaS+Architect;Backend+%7C+APIs+%7C+System+Design;Production-Grade+Software+Engineer" />
 </p>
 
 <h3 align="center">
@@ -113,7 +115,7 @@ I specialize in designing systems that are:
 
 ## 🎯 Current Goals
 
-- Master Advanced System Design (FAANG-level)
+- Master Advanced System Design
 - Improve distributed system knowledge
 - Deep dive into DevOps & cloud infrastructure
 - Build scalable SaaS products

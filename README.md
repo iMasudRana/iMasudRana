@@ -25,15 +25,13 @@ Focused on clean architecture, system design, and real-world scalability, I turn
 
 ## ⚡ Engineering Focus
 
-I specialize in designing systems that are:
-
-- 🚀 Scalable under real production load  
-- 🔐 Secure by design (auth, permissions, encryption)  
-- ⚙️ Optimized for performance & low latency  
-- 🧠 Clean architecture & maintainable codebases  
-- ☁️ Cloud-ready & deployment-friendly  
-
----
+<p align="center">
+  <img src="https://img.shields.io/badge/Scalable-Systems-0e75b6?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Secure-by%20Design-ff4d4d?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/High%20Performance-00c2ff?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Clean-Architecture-00ff88?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Cloud%20Ready-AWS%20%7C%20Docker-orange?style=for-the-badge"/>
+</p>
 
 ## 🧠 Core Expertise
 
@@ -42,6 +40,21 @@ I specialize in designing systems that are:
 - FastAPI, Async APIs, WebSockets
 - RESTful API architecture & design
 - Microservices & modular backend systems
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=firebase,supabase,python,django,fastapi,flask,php,laravel" />
+</p>
+
+## 🎨 Frontend Engineering Focus
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Component--Driven-Architecture-0e75b6?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Performance-Optimized-00c2ff?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Responsive-UI-ff4d4d?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/UX-Focused-00ff88?style=for-the-badge"/>
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,typescript,javascript,htmx,vue,react" />
+</p>
 
 ### System Design & Architecture
 - Scalable SaaS architecture
@@ -49,23 +62,36 @@ I specialize in designing systems that are:
 - Caching strategies (Redis)
 - Database design & optimization (PostgreSQL, MySQL)
 - Queue systems & background jobs
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,redis,mongodb,rabbitmq" />
+</p>
 
 ### Authentication & Security
 - JWT, OAuth2, Session-based auth
 - Role-based access control (RBAC)
 - Secure API design principles
+<p align="center">
+  <img src="https://img.shields.io/badge/JWT-Authentication-000000?style=for-the-badge&logo=jsonwebtokens"/>
+  <img src="https://img.shields.io/badge/OAuth2-Secure%20Login-blue?style=for-the-badge&logo=auth0"/>
+  <img src="https://img.shields.io/badge/RBAC-Role%20Based%20Access-red?style=for-the-badge&logo=keycloak"/>
+</p>
 
 ### Real-Time & Automation
 - WebSockets & real-time applications
 - Automation tools & scripts
 - Data processing pipelines
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ai,postman,gcp,py,pycharm" />
+</p>
 
 ### Dev & Performance
 - API optimization & caching
 - Debugging production systems
 - Clean code & SOLID principles
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,linux,git,github,nginx" />
+</p>
 
----
 
 ## 🚀 What I Build
 
@@ -75,8 +101,6 @@ I specialize in designing systems that are:
 - Automation tools & backend scripts
 - Business dashboards & admin panels
 - Secure authentication systems
-
----
 
 ## 📊 GitHub Stats
 

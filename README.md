@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Masud Rana</h1>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=800&lines=Senior+Full+Stack+Engineer;Scalable+Web+Apps+%7C+SaaS+%7C+REST+APIs;System+Design+%7C+Backend+Architecture+%7C+Automation;Building+Production-Grade+Software+for+Startups" />
+</p>
+
 <h3 align="center">
 Senior Full Stack Engineer | Scalable Systems • SaaS • APIs • Automation
 </h3>

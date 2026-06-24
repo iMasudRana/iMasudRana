@@ -1,4 +1,7 @@
 <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=220&section=header&text=Masud%20Rana&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+</p>
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=800&color=00F5D4&center=true&vCenter=true&width=950&lines=Full+Stack+Engineer;Scalable+Systems+%7C+SaaS+Architect+%7C+System+Design;Backend+%7C+REST+APIs+%7C+Microservices;Production-Grade+Software+Engineering" />
 </p>
 

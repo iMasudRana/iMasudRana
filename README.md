@@ -18,10 +18,10 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/code-masud">
+  <a href="https://github.com/iMasudRana">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/code-masud">
+  <a href="https://www.linkedin.com/in/iMasudRana">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://www.fiverr.com/s/yvKg1pA">
@@ -59,10 +59,10 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=code-masud&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=code-masud&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=iMasudRana&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iMasudRana&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://github.com/code-masud/code-masud/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+  <img src="https://github.com/iMasudRana/iMasudRana/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </p>
